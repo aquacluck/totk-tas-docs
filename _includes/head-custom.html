@@ -32,8 +32,21 @@ video, img {
     }
 }
 
-p:has(+video), p:has(+img) {
+p:has(+video) {
     margin-bottom: 0 !important;
+    color: #aaa;
+    &::before { content: '[video] '; }
+}
+p:has(+img) {
+    margin-bottom: 0 !important;
+    color: #aaa;
+    &::before { content: '[img] '; }
+}
+
+li:has(a[href*='/scripts/'] + a[href*='/scripts/']),
+p:has(a[href*='/scripts/'] + a[href*='/scripts/']) {
+    &::before { content: '[script] '; }
+    color: #aaa;
 }
 
 </style>

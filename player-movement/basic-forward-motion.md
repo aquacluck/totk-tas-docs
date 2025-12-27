@@ -1,9 +1,9 @@
-### Player basic forward movement
-- script: [tas-basicForwardMovement.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/tas-basicForwardMovement.as) [(download)](../scripts/tas-basicForwardMovement.as)
+## Player basic forward movement
+- [tas-basicForwardMovement.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/tas-basicForwardMovement.as) [(download)](../scripts/tas-basicForwardMovement.as)
 - covers: walk, crouch, sprint, ZL variants, exhaustion
 - not covered: shield jumps+surfs, dives, throw/etc aims, speed modifiers, non-100% analog values, in-depth acceleration
 
-#### doBasicGroundedForward
+### doBasicGroundedForward
 - ZL walk: ~5.55m/s constant, instant from standstill after 3(?) frame shield windup
 - normal walk: ~5.55m/s constant (TODO: same delay from standstill, not shown)
 - sprint: 8.1m/s constant, 2 frame acceleration from walking (TODO: test acceleration from standstill)
@@ -17,7 +17,7 @@
 tas-doBasicGroundedForward-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" download>(download)</a>
 <video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" controls></video>
 
-#### doBasicJumpsForward
+### doBasicJumpsForward
 - walking: instant ~7.42m/s velocity up, forward velocity untouched until landing, then ~halved (TODO?) then 6(?) frames recovery acceleration
 - ZL walking: instant ~7.54m/s velocity up, forward velocity reduced 5.55->5.4 during jump, forward velocity zeroed upon landing, 6(?) frames then instant recovery to 5.55
 - releasing ZL on jump cancels the jump, no effect on speed
@@ -31,7 +31,7 @@ tas-doBasicGroundedForward-small.mp4 <a href="https://aquacluck.github.io/totk-t
 tas-doBasicJumpsForward-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicJumpsForward-small.mp4" download>(download)</a>
 <video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicJumpsForward-small.mp4" controls></video>
 
-#### doCrouchJumpsForward
+### doCrouchJumpsForward
 - normal: peak ~11.6m/s forward, acceleration is not instant
 - ZL, release ZL, exhausted: all seem identical ^
 
