@@ -14,14 +14,8 @@ doBasicGroundedForward
 - crouch walk: ~2.11m/s constant, 3(?) frame delay from ZL
 
 video:
-
-https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4
-
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" controls="controls" style="max-height:640px; min-height: 200px"></video>
-
-[(download)](https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4)
-
-![](https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4)
+tas-doBasicGroundedForward-small.mp4 [(download)](https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4)
+<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" controls class="large"></video>
 
 script: [tas-basicForwardMovement.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/tas-basicForwardMovement.as) [(download)](../scripts/tas-basicForwardMovement.as)
 

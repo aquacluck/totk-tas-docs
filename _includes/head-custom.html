@@ -17,4 +17,16 @@ a:active  { color: hsl(0, 70%, 70%); }
 h1, h2, h3, p, li {
     color: var(--color-text);
 }
+
+video, img {
+    &.large {
+        max-height: 640px;
+        min-height: 200px;
+    }
+    &.small {
+        max-height: 200px;
+        min-height:  80px;
+    }
+}
+
 </style>
