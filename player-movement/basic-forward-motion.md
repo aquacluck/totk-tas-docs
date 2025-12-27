@@ -13,11 +13,14 @@ doBasicGroundedForward
 - ZL crouch walk: 1.5m/s constant, 2 frame acceleration from stam recovery
 - crouch walk: ~2.11m/s constant, 3(?) frame delay from ZL
 
-video:
 tas-doBasicGroundedForward-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" download>(download)</a>
 <video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" controls class="small"></video>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" controls class="small"></video>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" controls class="small"></video>
+
+tas-doBasicJumpsForward-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicJumpsForward-small.mp4" download>(download)</a>
+<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicJumpsForward-small.mp4" controls class="small"></video>
+
+tas-doCrouchJumpsForward-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-doCrouchJumpsForward-small.mp4" download>(download)</a>
+<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doCrouchJumpsForward-small.mp4" controls class="small"></video>
 
 script: [tas-basicForwardMovement.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/tas-basicForwardMovement.as) [(download)](../scripts/tas-basicForwardMovement.as)
 
