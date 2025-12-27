@@ -3,20 +3,20 @@
 - All content is free under the conditions of [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Player movement
-- Basic forward motion https://discord.com/channels/1086729144307564648/1327283747086925845/1327346935090249781
-- ZL/Aim cardinal walks+jumps https://discord.com/channels/1086729144307564648/1327283747086925845/1334122570479571004
-- (developing) Turn speed influences walk+run speeds differently https://discord.com/channels/1086729144307564648/1117622784047190127/1325234849816252457
-- (developing) 3s cooldown on shield jump speeds https://discord.com/channels/1086729144307564648/1105598687167664239/1327359511308275733
-- Gyro angular velocity https://discord.com/channels/1086729144307564648/1327283747086925845/1347644975181201469
-- Basic airborne drag https://discord.com/channels/1086729144307564648/1327283747086925845/1371027114345889792
-- AF vertical speed https://discord.com/channels/1086729144307564648/1327283747086925845/1371774226943442954
-- AF shield surf drag https://discord.com/channels/1086729144307564648/1327283747086925845/1372092129911771137
-- (developing) basic shield jump speed preservation from ledge https://discord.com/channels/1086729144307564648/1117622784047190127/1371121865661218876
-- Optimal mozdor rhythm https://discord.com/channels/1086729144307564648/1327283747086925845/1372148530378047508
+- [Basic forward motion](./player-movement/basic-forward-motion.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1327346935090249781)
+- ZL/Aim cardinal walks+jumps [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334122570479571004)
+- (developing) Turn speed influences walk+run speeds differently [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1325234849816252457)
+- (developing) 3s cooldown on shield jump speeds [(discord)](https://discord.com/channels/1086729144307564648/1105598687167664239/1327359511308275733)
+- Gyro angular velocity [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1347644975181201469)
+- Basic airborne drag [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371027114345889792)
+- AF vertical speed [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371774226943442954)
+- AF shield surf drag [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372092129911771137)
+- (developing) basic shield jump speed preservation from ledge [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1371121865661218876)
+- Optimal mozdor rhythm [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372148530378047508)
 
 ## Weapon+Material movement
-- material throw level/upward https://discord.com/channels/1086729144307564648/1327283747086925845/1334081511833600080
-- throw speed independent from Player https://discord.com/channels/1086729144307564648/1327283747086925845/1334132236798132328
+- material throw level/upward [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334081511833600080)
+- throw speed independent from Player [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334132236798132328)
 
 ## Suggested submission requirements:
 - Feel free to submit info in the discord thread or as issues/PRs here
