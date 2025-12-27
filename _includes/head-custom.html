@@ -1,0 +1,20 @@
+<style>
+@media (dynamic-range: standard) { :root { --color-text: #eee; } }
+@media (dynamic-range: high)     { :root { --color-text: #ccc; } }
+
+* {
+    background: black !important;
+}
+
+body {
+    margin: 0;
+}
+
+a:link    { color: hsl(220, 70%, 70%); }
+a:visited { color: hsl(270, 70%, 60%); }
+a:active  { color: hsl(0, 70%, 70%); }
+
+h1, h2, h3, p, li {
+    color: var(--color-text);
+}
+</style>

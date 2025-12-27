@@ -15,11 +15,7 @@ doBasicGroundedForward
 
 video:
 
-../media/tas-doBasicGroundedForward-small.mp4
-
-https://github.com/aquacluck/totk-tas-docs/blob/main/media/tas-doBasicJumpsForward-small.mp4
-
-https://raw.githubusercontent.com/aquacluck/totk-tas-docs/refs/heads/main/media/tas-doBasicJumpsForward-small.mp4
+https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4
 
 script: [tas-basicForwardMovement.as](../scripts/tas-basicForwardMovement.as)
 
