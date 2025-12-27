@@ -14,11 +14,14 @@ a:link    { color: hsl(220, 70%, 70%); }
 a:visited { color: hsl(270, 70%, 60%); }
 a:active  { color: hsl(0, 70%, 70%); }
 
-h1, h2, h3, p, li {
+h1, h2, h3, h4, p, li {
     color: var(--color-text);
 }
 
 video, img {
+    /* .medium is default */
+    max-height: 320px;
+    min-height: 100px;
     &.large {
         max-height: 640px;
         min-height: 200px;
