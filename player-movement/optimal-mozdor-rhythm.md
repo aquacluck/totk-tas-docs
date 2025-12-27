@@ -6,6 +6,6 @@
 - 3.2621434 m/s average height loss (~1/10 slow dive's 31.408508 m/s)
 - almost constant 9 m/s xz velocity (slow dive speed)
 
-tas-mozdor.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-mozdor.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-mozdor.mp4" controls></video>
+tas-mozdor.mp4 <a href="../media/tas-mozdor.mp4" download>(download)</a>
+<video src="../media/tas-mozdor.mp4" controls></video>
 

@@ -27,6 +27,6 @@
     tas::input(1, KEY_ZL|KEY_A, 0,32767); // shield jump at 7.5m/s
 ```
 
-tas-doShieldJumpsForward-speed-5.1-7.5.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-doShieldJumpsForward-speed-5.1-7.5.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doShieldJumpsForward-speed-5.1-7.5.mp4" controls></video>
+tas-doShieldJumpsForward-speed-5.1-7.5.mp4 <a href="../media/tas-doShieldJumpsForward-speed-5.1-7.5.mp4" download>(download)</a>
+<video src="../media/tas-doShieldJumpsForward-speed-5.1-7.5.mp4" controls></video>
 

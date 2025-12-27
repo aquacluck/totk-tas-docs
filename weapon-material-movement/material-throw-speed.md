@@ -16,6 +16,6 @@
 - video is potato quality and not *quite* synced, sorry
 - [throwspeed-up.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/throwspeed-up.as) [(download)](../scripts/throwspeed-up.as)
 
-throwspeed-mergeup-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/throwspeed-mergeup-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/throwspeed-mergeup-small.mp4" controls class="large"></video>
+throwspeed-mergeup-small.mp4 <a href="../media/throwspeed-mergeup-small.mp4" download>(download)</a>
+<video src="../media/throwspeed-mergeup-small.mp4" controls class="large"></video>
 

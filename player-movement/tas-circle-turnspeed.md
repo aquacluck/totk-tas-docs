@@ -35,9 +35,9 @@ void main() {
 
 1.2.1 shown. it runs in circles, although lots of little issues still. Normal move speed appears slightly boosted during tight turns (difficult to exploit?), but sprinting is slowed down
 
-tas-circle-sprint.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-circle-sprint.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-circle-sprint.mp4" controls></video>
+tas-circle-sprint.mp4 <a href="../media/tas-circle-sprint.mp4" download>(download)</a>
+<video src="../media/tas-circle-sprint.mp4" controls></video>
 
-tas-circle-walk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-circle-walk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-circle-walk.mp4" controls></video>
+tas-circle-walk.mp4 <a href="../media/tas-circle-walk.mp4" download>(download)</a>
+<video src="../media/tas-circle-walk.mp4" controls></video>
 

@@ -6,11 +6,11 @@
 - 7 frames between jc and jumpslash yields max height 2.893066 m
 - (~4.3x unassisted jump height)
 
-jc-heights-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/jc-heights-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/jc-heights-small.mp4" controls></video>
+jc-heights-small.mp4 <a href="../media/jc-heights-small.mp4" download>(download)</a>
+<video src="../media/jc-heights-small.mp4" controls></video>
 
-jc-jumpslash-heights-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/jc-jumpslash-heights-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/jc-jumpslash-heights-small.mp4" controls></video>
+jc-jumpslash-heights-small.mp4 <a href="../media/jc-jumpslash-heights-small.mp4" download>(download)</a>
+<video src="../media/jc-jumpslash-heights-small.mp4" controls></video>
 
 ```
 ground 2386.197998

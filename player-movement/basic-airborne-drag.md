@@ -4,8 +4,8 @@
 - The drag works symmetric front+back here, as final position is very close to starting position.
 - All of this seems deterministic. Unfortunately the platform speed isn't perfectly constant.
 
-momentum-platform-idle.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/momentum-platform-idle.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/momentum-platform-idle.mp4" controls></video>
+momentum-platform-idle.mp4 <a href="../media/momentum-platform-idle.mp4" download>(download)</a>
+<video src="../media/momentum-platform-idle.mp4" controls></video>
 
 ## Player momentum/drag moving off terrain ledge
 - drag seems to affect player consistently in most basic movement animations, but I didn't try to derive the function/graph/etc of velocity decay
@@ -54,24 +54,24 @@ vel |xz| 0 @ 2150 fr
 1852fr duration ~= 61.73s
 ```
 
-drag-walk-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/drag-walk-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/drag-walk-small.mp4" controls></video>
+drag-walk-small.mp4 <a href="../media/drag-walk-small.mp4" download>(download)</a>
+<video src="../media/drag-walk-small.mp4" controls></video>
 
-drag-sprint-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/drag-sprint-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/drag-sprint-small.mp4" controls></video>
+drag-sprint-small.mp4 <a href="../media/drag-sprint-small.mp4" download>(download)</a>
+<video src="../media/drag-sprint-small.mp4" controls></video>
 
-drag-walkjump-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/drag-walkjump-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/drag-walkjump-small.mp4" controls></video>
+drag-walkjump-small.mp4 <a href="../media/drag-walkjump-small.mp4" download>(download)</a>
+<video src="../media/drag-walkjump-small.mp4" controls></video>
 
-drag-sprintjump-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/drag-sprintjump-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/drag-sprintjump-small.mp4" controls></video>
+drag-sprintjump-small.mp4 <a href="../media/drag-sprintjump-small.mp4" download>(download)</a>
+<video src="../media/drag-sprintjump-small.mp4" controls></video>
 
-drag-throwaimjump-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/drag-throwaimjump-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/drag-throwaimjump-small.mp4" controls></video>
+drag-throwaimjump-small.mp4 <a href="../media/drag-throwaimjump-small.mp4" download>(download)</a>
+<video src="../media/drag-throwaimjump-small.mp4" controls></video>
 
-dragfree-bowaim-jump-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/dragfree-bowaim-jump-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/dragfree-bowaim-jump-small.mp4" controls></video>
+dragfree-bowaim-jump-small.mp4 <a href="../media/dragfree-bowaim-jump-small.mp4" download>(download)</a>
+<video src="../media/dragfree-bowaim-jump-small.mp4" controls></video>
 
-drag-crouchjump-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/drag-crouchjump-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/drag-crouchjump-small.mp4" controls></video>
+drag-crouchjump-small.mp4 <a href="../media/drag-crouchjump-small.mp4" download>(download)</a>
+<video src="../media/drag-crouchjump-small.mp4" controls></video>
 

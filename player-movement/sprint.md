@@ -3,8 +3,8 @@
 - ending sprint on the last possible frame before exhaustion saves 20 stamina-recharge frames
 - oops the first message that says `(setup for crouch walk)` is supposed to be `(setup for crouch standstill)`
 
-test_sprint_stamina_misc.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/test_sprint_stamina_misc.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/test_sprint_stamina_misc.mp4" controls></video>
+test_sprint_stamina_misc.mp4 <a href="../media/test_sprint_stamina_misc.mp4" download>(download)</a>
+<video src="../media/test_sprint_stamina_misc.mp4" controls></video>
 
 [test_sprint_stamina_misc.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts//test_sprint_stamina_misc.as) [(download)](../scripts/test_sprint_stamina_misc.as)
 
@@ -82,8 +82,8 @@ Logs distance and cumulative velocity per frame for several sprint begin methods
 
 I'm not sure how to weigh this against stamina cost and any pre-sprint walk time, it might ultimately depend on the situation. Obviously the average of the method that starts slowest will always have the slowest average in isolation like this since sprint speed is constant, but it's nice to have some reference points on distance or cumulative average speed at different frames.
 
-test_sprint_initial_acceleration_long.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/test_sprint_initial_acceleration_long.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/test_sprint_initial_acceleration_long.mp4" controls></video>
+test_sprint_initial_acceleration_long.mp4 <a href="../media/test_sprint_initial_acceleration_long.mp4" download>(download)</a>
+<video src="../media/test_sprint_initial_acceleration_long.mp4" controls></video>
 
 [test_sprint_initial_acceleration.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/test_sprint_initial_acceleration.as) [(download)](../scripts/test_sprint_initial_acceleration.as)
 
@@ -96,11 +96,11 @@ test_sprint_initial_acceleration_long.mp4 <a href="https://aquacluck.github.io/t
 
 ![](../media/test_sprint2_compare1.webp)
 
-test_sprint2-ctts-17-5.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/test_sprint2-ctts-17-5.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/test_sprint2-ctts-17-5.mp4" controls></video>
+test_sprint2-ctts-17-5.mp4 <a href="../media/test_sprint2-ctts-17-5.mp4" download>(download)</a>
+<video src="../media/test_sprint2-ctts-17-5.mp4" controls></video>
 
-test_sprint2-normal.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/test_sprint2-normal.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/test_sprint2-normal.mp4" controls></video>
+test_sprint2-normal.mp4 <a href="../media/test_sprint2-normal.mp4" download>(download)</a>
+<video src="../media/test_sprint2-normal.mp4" controls></video>
 
 [test_sprint2.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/test_sprint2.as) [(download)](../scripts/test_sprint2.as)
 

@@ -3,8 +3,8 @@
 - avg y speed vs rhythm is linear, gravity is the only factor and always in effect (not positive whether gravity procs on jumpslash cancel frame though)
 - (bpm is probably more practical for human play. I think you could derive bpm from this though)
 
-af-vertical-speed.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-speed.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-speed.mp4" controls></video>
+af-vertical-speed.mp4 <a href="../media/af-vertical-speed.mp4" download>(download)</a>
+<video src="../media/af-vertical-speed.mp4" controls></video>
 
 ![](../media/af-vertical-speed-graph.webp)
 
@@ -12,8 +12,8 @@ af-vertical-speed.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/a
 hmm lag frames might be causing extra gravity, not quite as level as i hoped.
 Ohh also I calced for 2s+3s, but I can't scale it to 2+3 iterations like that because 16+17 aren't same duration <:thonk:1212193436695007282>
 
-af-vertical-hover.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-hover.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-hover.mp4" controls></video>
+af-vertical-hover.mp4 <a href="../media/af-vertical-hover.mp4" download>(download)</a>
+<video src="../media/af-vertical-hover.mp4" controls></video>
 
 so there are 3 obvious AF hovers. below shows expected y delta per whatever the hover cycle is. videos show the y coord at each full cycle. still not as stable as projected but i think i can blame lag frames this time
 ```py
@@ -27,11 +27,11 @@ so there are 3 obvious AF hovers. below shows expected y delta per whatever the 
 0.00048759999999958836
 ```
 
-af-vertical-hover2.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-hover2.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-hover2.mp4" controls></video>
+af-vertical-hover2.mp4 <a href="../media/af-vertical-hover2.mp4" download>(download)</a>
+<video src="../media/af-vertical-hover2.mp4" controls></video>
 
-af-vertical-hover3.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-hover3.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-hover3.mp4" controls></video>
+af-vertical-hover3.mp4 <a href="../media/af-vertical-hover3.mp4" download>(download)</a>
+<video src="../media/af-vertical-hover3.mp4" controls></video>
 
 ```
 (assuming fixed 30fps gameplay -- alternates might be lag frames? only reporting alts seen >1fr)

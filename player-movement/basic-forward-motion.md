@@ -14,8 +14,8 @@
 - ZL crouch walk: 1.5m/s constant, 2 frame acceleration from stam recovery
 - crouch walk: ~2.11m/s constant, 3(?) frame delay from ZL
 
-tas-doBasicGroundedForward-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" controls></video>
+tas-doBasicGroundedForward-small.mp4 <a href="../media/tas-doBasicGroundedForward-small.mp4" download>(download)</a>
+<video src="../media/tas-doBasicGroundedForward-small.mp4" controls></video>
 
 ### doBasicJumpsForward
 - walking: instant ~7.42m/s velocity up, forward velocity untouched until landing, then ~halved (TODO?) then 6(?) frames recovery acceleration
@@ -28,13 +28,13 @@ tas-doBasicGroundedForward-small.mp4 <a href="https://aquacluck.github.io/totk-t
 - exausted ZL walk: instant ~7.54m/s velocity up, forward speed upgraded to 5.4 (ZL jump), zeroed upon landing, 6(?) frames instant recovery to 4.3
 - exausted releasing ZL on jump: no effect
 
-tas-doBasicJumpsForward-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicJumpsForward-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicJumpsForward-small.mp4" controls></video>
+tas-doBasicJumpsForward-small.mp4 <a href="../media/tas-doBasicJumpsForward-small.mp4" download>(download)</a>
+<video src="../media/tas-doBasicJumpsForward-small.mp4" controls></video>
 
 ### doCrouchJumpsForward
 - normal: peak ~11.6m/s forward, acceleration is not instant
 - ZL, release ZL, exhausted: all seem identical ^
 
-tas-doCrouchJumpsForward-small.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/tas-doCrouchJumpsForward-small.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doCrouchJumpsForward-small.mp4" controls></video>
+tas-doCrouchJumpsForward-small.mp4 <a href="../media/tas-doCrouchJumpsForward-small.mp4" download>(download)</a>
+<video src="../media/tas-doCrouchJumpsForward-small.mp4" controls></video>
 

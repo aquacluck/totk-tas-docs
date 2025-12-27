@@ -21,23 +21,23 @@ Deriving the gyro unit:
 
 [gyro-basic-test.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/gyro-basic-test.as) [(download)](../scripts/gyro-basic-test.as)
 
-gyro1-30fr-1.0-1.5rot.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/gyro1-30fr-1.0-1.5rot.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/gyro1-30fr-1.0-1.5rot.mp4" controls></video>
+gyro1-30fr-1.0-1.5rot.mp4 <a href="../media/gyro1-30fr-1.0-1.5rot.mp4" download>(download)</a>
+<video src="../media/gyro1-30fr-1.0-1.5rot.mp4" controls></video>
 
-gyro2-60fr-0.5-1.5rot.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/gyro2-60fr-0.5-1.5rot.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/gyro2-60fr-0.5-1.5rot.mp4" controls></video>
+gyro2-60fr-0.5-1.5rot.mp4 <a href="../media/gyro2-60fr-0.5-1.5rot.mp4" download>(download)</a>
+<video src="../media/gyro2-60fr-0.5-1.5rot.mp4" controls></video>
 
-gyro3-600fr-0.05-1.5rot.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/gyro3-600fr-0.05-1.5rot.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/gyro3-600fr-0.05-1.5rot.mp4" controls></video>
+gyro3-600fr-0.05-1.5rot.mp4 <a href="../media/gyro3-600fr-0.05-1.5rot.mp4" download>(download)</a>
+<video src="../media/gyro3-600fr-0.05-1.5rot.mp4" controls></video>
 
-gyro4-1fr-30-1.5rot.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/gyro4-1fr-30-1.5rot.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/gyro4-1fr-30-1.5rot.mp4" controls></video>
+gyro4-1fr-30-1.5rot.mp4 <a href="../media/gyro4-1fr-30-1.5rot.mp4" download>(download)</a>
+<video src="../media/gyro4-1fr-30-1.5rot.mp4" controls></video>
 
-gyro5-20fr-1.0-1.0rot.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/gyro5-20fr-1.0-1.0rot.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/gyro5-20fr-1.0-1.0rot.mp4" controls></video>
+gyro5-20fr-1.0-1.0rot.mp4 <a href="../media/gyro5-20fr-1.0-1.0rot.mp4" download>(download)</a>
+<video src="../media/gyro5-20fr-1.0-1.0rot.mp4" controls></video>
 
-gyro6-1fr-20.0-1.0rot-invisible.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/gyro6-1fr-20.0-1.0rot-invisible.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/gyro6-1fr-20.0-1.0rot-invisible.mp4" controls></video>
+gyro6-1fr-20.0-1.0rot-invisible.mp4 <a href="../media/gyro6-1fr-20.0-1.0rot-invisible.mp4" download>(download)</a>
+<video src="../media/gyro6-1fr-20.0-1.0rot-invisible.mp4" controls></video>
 
 Quirks/etc:
 - I haven't figured out how to tilt up and down with angvel yet. Setting gyro rotation to east/west makes it respond to angvel.x but it rotates horizontally. Setting it to north makes it respond to angvel.z as shown above. Setting it to south nothing responds. I suspect it needs to be one of those directions tilted up or down 90°, like one of these <https://github.com/aquacluck/totk-lotuskit/blob/5b4200b31e7ef25028e5ac46ca462d56dc404ee0/src/program/script/globals.cpp#L106-L115>

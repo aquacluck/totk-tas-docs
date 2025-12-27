@@ -6,6 +6,6 @@ a look at **shield jump speed preservation** after crouch jump:
 - Link's spacing from the edge seems to be important, I think because this determines which frame of the crouch jump gets interrupted by falling and thus the max preservable speed. The "hold forward 25 frames" spacing used here was the best distance for this position.
 - Different terrain features near the edge might behave differently, same with wings, idk I haven't tested these things yet. I'm not highly confident about any of this, this was just a quick test.
 
-drag-bowcrouchjump-shieldsurf-timing.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/drag-bowcrouchjump-shieldsurf-timing.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/drag-bowcrouchjump-shieldsurf-timing.mp4" controls></video>
+drag-bowcrouchjump-shieldsurf-timing.mp4 <a href="../media/drag-bowcrouchjump-shieldsurf-timing.mp4" download>(download)</a>
+<video src="../media/drag-bowcrouchjump-shieldsurf-timing.mp4" controls></video>
 

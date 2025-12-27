@@ -14,30 +14,30 @@
 
 [4dirjump.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/4dirjump.as) [(download)](../scripts/4dirjump.as)
 
-zlspeed-handsfreewalk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-handsfreewalk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-handsfreewalk.mp4" controls></video>
+zlspeed-handsfreewalk.mp4 <a href="../media/zlspeed-handsfreewalk.mp4" download>(download)</a>
+<video src="../media/zlspeed-handsfreewalk.mp4" controls></video>
 
-zlspeed-bowwalk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-bowwalk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-bowwalk.mp4" controls></video>
+zlspeed-bowwalk.mp4 <a href="../media/zlspeed-bowwalk.mp4" download>(download)</a>
+<video src="../media/zlspeed-bowwalk.mp4" controls></video>
 
-zlspeed-2handwalk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-2handwalk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-2handwalk.mp4" controls></video>
+zlspeed-2handwalk.mp4 <a href="../media/zlspeed-2handwalk.mp4" download>(download)</a>
+<video src="../media/zlspeed-2handwalk.mp4" controls></video>
 
-zlspeed-spearwalk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-spearwalk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-spearwalk.mp4" controls></video>
+zlspeed-spearwalk.mp4 <a href="../media/zlspeed-spearwalk.mp4" download>(download)</a>
+<video src="../media/zlspeed-spearwalk.mp4" controls></video>
 
-zlspeed-swordwalk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-swordwalk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/zlspeed-swordwalk.mp4" controls></video>
+zlspeed-swordwalk.mp4 <a href="../media/zlspeed-swordwalk.mp4" download>(download)</a>
+<video src="../media/zlspeed-swordwalk.mp4" controls></video>
 
-weaponthrowspeed-aimwalk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/weaponthrowspeed-aimwalk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/weaponthrowspeed-aimwalk.mp4" controls></video>
+weaponthrowspeed-aimwalk.mp4 <a href="../media/weaponthrowspeed-aimwalk.mp4" download>(download)</a>
+<video src="../media/weaponthrowspeed-aimwalk.mp4" controls></video>
 
-bowspeed-aimwalk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/bowspeed-aimwalk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/bowspeed-aimwalk.mp4" controls></video>
+bowspeed-aimwalk.mp4 <a href="../media/bowspeed-aimwalk.mp4" download>(download)</a>
+<video src="../media/bowspeed-aimwalk.mp4" controls></video>
 
-throwspeed-aimwalk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/throwspeed-aimwalk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/throwspeed-aimwalk.mp4" controls></video>
+throwspeed-aimwalk.mp4 <a href="../media/throwspeed-aimwalk.mp4" download>(download)</a>
+<video src="../media/throwspeed-aimwalk.mp4" controls></video>
 
-materialcarry-walk.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/materialcarry-walk.mp4" download>(download)</a>
-<video src="https://aquacluck.github.io/totk-tas-docs/media/materialcarry-walk.mp4" controls></video>
+materialcarry-walk.mp4 <a href="../media/materialcarry-walk.mp4" download>(download)</a>
+<video src="../media/materialcarry-walk.mp4" controls></video>
 
