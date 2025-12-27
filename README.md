@@ -6,13 +6,13 @@
 ## Player movement
 - [Basic forward motion](./player-movement/basic-forward-motion.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1327346935090249781)
 - [ZL + Aiming movement+jumps](./player-movement/zl-aiming-movement-jumps.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334122570479571004)
-- (developing) Turn speed influences walk+run speeds differently [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1325234849816252457)
-- (developing) 3s cooldown on shield jump speeds [(discord)](https://discord.com/channels/1086729144307564648/1105598687167664239/1327359511308275733)
+- [Turn speed influences walk+run speeds differently](./player-movement/tas-circle-turnspeed.md) [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1325234849816252457)
+- [3s cooldown on shield jump speeds](./player-movement/shield-jump-nerf.md) [(discord)](https://discord.com/channels/1086729144307564648/1105598687167664239/1327359511308275733)
 - [Gyro angular velocity](./player-movement/gyro-angular-velocity.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1347644975181201469)
 - Basic airborne drag [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371027114345889792)
 - AF vertical speed [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371774226943442954)
 - AF shield surf drag [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372092129911771137)
-- (developing) basic shield jump speed preservation from ledge [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1371121865661218876)
+- [shield jump speed preservation from ledge](./player-movement/shield-jump-momentum.md) [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1371121865661218876)
 - Optimal mozdor rhythm [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372148530378047508)
 
 ## Weapon+Material movement
