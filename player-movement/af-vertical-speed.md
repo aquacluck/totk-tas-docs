@@ -6,8 +6,7 @@
 af-vertical-speed.mp4 <a href="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-speed.mp4" download>(download)</a>
 <video src="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-speed.mp4" controls></video>
 
-<p>af-vertical-speed-graph.webp <a href="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-speed-graph.webp" download>(download)</a>
-</p><img src="https://aquacluck.github.io/totk-tas-docs/media/af-vertical-speed-graph.webp" />
+![](../media/af-vertical-speed-graph.webp)
 
 ~~repeating ZR=13 Y=3 twice + ZR=14 Y=3 thrice is expected to be almost flat, at ~0.6mm/s down. (-0.00301589m / 5s)~~
 hmm lag frames might be causing extra gravity, not quite as level as i hoped.
