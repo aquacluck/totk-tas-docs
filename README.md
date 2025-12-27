@@ -9,11 +9,11 @@
 - [Turn speed influences walk+run speeds differently](./player-movement/tas-circle-turnspeed.md) [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1325234849816252457)
 - [3s cooldown on shield jump speeds](./player-movement/shield-jump-nerf.md) [(discord)](https://discord.com/channels/1086729144307564648/1105598687167664239/1327359511308275733)
 - [Gyro angular velocity](./player-movement/gyro-angular-velocity.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1347644975181201469)
-- Basic airborne drag [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371027114345889792)
-- AF vertical speed [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371774226943442954)
-- AF shield surf drag [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372092129911771137)
+- [Basic airborne drag](./player-movement/basic-airborne-drag.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371027114345889792)
+- [AF vertical speed](./player-movement/af-vertical-speed.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371774226943442954)
+- [AF shield surf drag](./player-movement/af-shield-surf-drag.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372092129911771137)
 - [shield jump speed preservation from ledge](./player-movement/shield-jump-momentum.md) [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1371121865661218876)
-- Optimal mozdor rhythm [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372148530378047508)
+- [Optimal mozdor rhythm](./player-movement/optimal-mozdor-rhythm.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372148530378047508)
 
 ## Weapon+Material movement
 - [material throw speed (level/upward)](./weapon-material-movement/material-throw-speed.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334081511833600080)
