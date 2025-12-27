@@ -17,7 +17,13 @@ video:
 
 https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4
 
-script: [tas-basicForwardMovement.as](../scripts/tas-basicForwardMovement.as)
+<video src="https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4" controls="controls" style="max-height:640px; min-height: 200px"></video>
+
+[(download)](https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4)
+
+![](https://aquacluck.github.io/totk-tas-docs/media/tas-doBasicGroundedForward-small.mp4)
+
+script: [tas-basicForwardMovement.as](https://github.com/aquacluck/totk-tas-docs/blob/main/scripts/tas-basicForwardMovement.as) [(download)](../scripts/tas-basicForwardMovement.as)
 
 doBasicJumpsForward
 - walking: instant ~7.42m/s velocity up, forward velocity untouched until landing, then ~halved (TODO?) then 6(?) frames recovery acceleration

@@ -1,4 +1,5 @@
 # TAS Stats+Strats for Tears of the Kingdom
+- View at [https://aquacluck.github.io/totk-tas-docs/](https://aquacluck.github.io/totk-tas-docs/) for video embeds
 - This project catalogs assorted data, timings, scripts, and proofs of whatever we care about, with a Hyrule Engineering inspired focus on rigor+reproducibility.
 - All content is free under the conditions of [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
