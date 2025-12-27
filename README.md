@@ -1,25 +1,25 @@
 # TAS Stats+Strats for Tears of the Kingdom
-- View at [https://aquacluck.github.io/totk-tas-docs/](https://aquacluck.github.io/totk-tas-docs/) for video embeds
+- View at [https://aquacluck.github.io/totk-tas-docs/](https://aquacluck.github.io/totk-tas-docs/) for video embeds, [https://github.com/aquacluck/totk-tas-docs](https://github.com/aquacluck/totk-tas-docs) for source
 - This project catalogs assorted data, timings, scripts, and proofs of whatever we care about, with a Hyrule Engineering inspired focus on rigor+reproducibility.
 - Content here that I've authored is free under the conditions of [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Player movement
-- [Basic forward motion](./player-movement/basic-forward-motion.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1327346935090249781)
-- [ZL + Aiming movement+jumps](./player-movement/zl-aiming-movement-jumps.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334122570479571004)
-- [Turn speed influences walk+run speeds differently](./player-movement/tas-circle-turnspeed.md) [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1325234849816252457)
-- [3s cooldown on shield jump speeds](./player-movement/shield-jump-nerf.md) [(discord)](https://discord.com/channels/1086729144307564648/1105598687167664239/1327359511308275733)
-- [Gyro angular velocity](./player-movement/gyro-angular-velocity.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1347644975181201469)
-- [Basic airborne drag](./player-movement/basic-airborne-drag.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371027114345889792)
-- [AF vertical speed](./player-movement/af-vertical-speed.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1371774226943442954)
-- [AF shield surf drag](./player-movement/af-shield-surf-drag.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372092129911771137)
-- [shield jump speed preservation from ledge](./player-movement/shield-jump-momentum.md) [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1371121865661218876)
-- [mozdor jump rhythm](./player-movement/optimal-mozdor-rhythm.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372148530378047508)
+- [Basic forward motion](./player-movement/basic-forward-motion.md)
+- [ZL + Aiming movement+jumps](./player-movement/zl-aiming-movement-jumps.md)
+- [Turn speed influences walk+run speeds differently](./player-movement/tas-circle-turnspeed.md)
+- [3s cooldown on shield jump speeds](./player-movement/shield-jump-nerf.md)
+- [Gyro angular velocity](./player-movement/gyro-angular-velocity.md)
+- [Basic airborne drag](./player-movement/basic-airborne-drag.md)
+- [AF vertical speed](./player-movement/af-vertical-speed.md)
+- [AF shield surf drag](./player-movement/af-shield-surf-drag.md)
+- [shield jump speed preservation from ledge](./player-movement/shield-jump-momentum.md)
+- [mozdor jump rhythm](./player-movement/optimal-mozdor-rhythm.md)
 - [sprint](./player-movement/sprint.md)
 - [jumpslash cancel](./player-movement/jumpslash-cancel.md)
 
 ## Weapon+Material movement
-- [material throw speed (level/upward)](./weapon-material-movement/material-throw-speed.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334081511833600080)
-- [throw speed independent from Player](./weapon-material-movement/throw-speed-uninherited.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334132236798132328)
+- [material throw speed (level/upward)](./weapon-material-movement/material-throw-speed.md)
+- [throw speed independent from Player](./weapon-material-movement/throw-speed-uninherited.md)
 
 ## Suggested submission requirements:
 - Feel free to submit info in the discord thread or as issues/PRs here

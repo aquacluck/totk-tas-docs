@@ -49,3 +49,13 @@ p:has(a[href*='/scripts/'] + a[href*='/scripts/']) {
 }
 
 </style>
+<script>
+window.addEventListener("load", function() {
+    // remove github accountbaiting
+    let a = document.querySelector(".footer a");
+    if (a && a.getAttribute("href").indexOf("/totk-tas-docs/edit/") != -1) {
+        a.setAttribute("href", a.getAttribute("href").replace("/totk-tas-docs/edit/", "/totk-tas-docs/blob/"));
+        a.innerText = "View Source"; // was "Improve this page"
+    }
+});
+</script>
