@@ -5,7 +5,7 @@
 
 ## Player movement
 - [Basic forward motion](./player-movement/basic-forward-motion.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1327346935090249781)
-- ZL/Aim cardinal walks+jumps [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334122570479571004)
+- [ZL + Aiming movement+jumps](./player-movement/zl-aiming-movement-jumps.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334122570479571004)
 - (developing) Turn speed influences walk+run speeds differently [(discord)](https://discord.com/channels/1086729144307564648/1117622784047190127/1325234849816252457)
 - (developing) 3s cooldown on shield jump speeds [(discord)](https://discord.com/channels/1086729144307564648/1105598687167664239/1327359511308275733)
 - Gyro angular velocity [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1347644975181201469)
