@@ -16,8 +16,8 @@
 - Optimal mozdor rhythm [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1372148530378047508)
 
 ## Weapon+Material movement
-- material throw level/upward [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334081511833600080)
-- throw speed independent from Player [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334132236798132328)
+- [material throw speed (level/upward)](./weapon-material-movement/material-throw-speed.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334081511833600080)
+- [throw speed independent from Player](./weapon-material-movement/throw-speed-uninherited.md) [(discord)](https://discord.com/channels/1086729144307564648/1327283747086925845/1334132236798132328)
 
 ## Suggested submission requirements:
 - Feel free to submit info in the discord thread or as issues/PRs here
